@@ -23,6 +23,11 @@ on the console, if isError is false, or an error is added to the stream.
     })
 
 
+## Repository
+
+The repository for this project is available at [https://github.com/ze6ke/gulp-validated-src](https://github.com/ze6ke/gulp-validated-src).
+
+
 ## License
 
 This library is available under the MIT license.
