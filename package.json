@@ -5,6 +5,17 @@
   "scripts": {
     "test": "./node_modules/.bin/mocha test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ze6ke/gulp-validated-src.git"
+  },
+  "keywords": [
+    "validation",
+    "gulp",
+    "src",
+    "glob"
+  ],
+  "author": "zeke wander",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
